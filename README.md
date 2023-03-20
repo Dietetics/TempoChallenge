@@ -1,2 +1,3 @@
-# ToBeABetterMe
-Engeristrer les activites de la journée et voir à travers les graphes pour s'attendre à une meilleur discipline. 
+# ToBeABetterMeV2Players
+
+Petit projet avec plaisir pour répondre à mes propres besoins et apprendre à milieu utiliser excel et vba
